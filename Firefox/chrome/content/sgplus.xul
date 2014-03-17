@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://steamgifts_plus_v2/skin/overlay.css" type="text/css"?>
+<!DOCTYPE steamgifts_plus_v2 SYSTEM "chrome://steamgifts_plus_v2/locale/overlay.dtd">
+<overlay id="steamgifts_plus_v2-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<script type="application/x-javascript" src="sgplus.js"/>
+</overlay>
