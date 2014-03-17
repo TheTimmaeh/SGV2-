@@ -1,6 +1,0 @@
-content   steamgifts_plus_v2                 chrome/content/
-content   steamgifts_plus_v2                 chrome/content/		contentaccessible=yes
-skin      steamgifts_plus_v2   classic/1.0   chrome/skin/
-locale    steamgifts_plus_v2   en-US         chrome/locale/en-US/
-overlay	chrome://browser/content/browser.xul	chrome://steamgifts_plus_v2/content/sgplus.xul
-style	chrome://global/content/customizeToolbar.xul	chrome://steamgifts_plus_v2/skin/overlay.css

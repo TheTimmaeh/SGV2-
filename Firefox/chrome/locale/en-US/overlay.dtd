@@ -1,8 +1,0 @@
-<!ENTITY steamgifts_plus_v2.label "SteamGifts Plus v2">
-<!ENTITY steamgifts_plus_v2Context.label "Your Menuitem">
-<!ENTITY steamgifts_plus_v2Context.accesskey "Y">
-<!ENTITY steamgifts_plus_v2ToolbarButton.label "SG Plus">
-<!ENTITY steamgifts_plus_v2ToolbarButton.tooltip "SteamGifts Plus v2">
-<!ENTITY steamgifts_plus_v2Sidebar.label "Your Sidebar">
-<!ENTITY steamgifts_plus_v2Toolbar.name  "example">
-<!ENTITY steamgifts_plus_v2Toolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &steamgifts_plus_v2Toolbar.name;">
