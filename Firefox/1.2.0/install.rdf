@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+    <Description about="urn:mozilla:install-manifest">
+        <em:type>2</em:type> <!-- 2 : Extension -->
+        <em:id>sgpv2@timmaeh.de</em:id>
+        <em:name>SteamGifts Plus v2</em:name>
+        <em:version>1.2.0</em:version>
+        <em:description>Adds various features.</em:description>
+		<em:homepageURL>https://github.com/leomoty/SGV2-/</em:homepageURL>
+		<em:icon64URL>chrome://steamgifts_plus_v2/skin/icon64.png</em:icon64URL>
+		<em:iconURL>chrome://steamgifts_plus_v2/skin/icon.png</em:iconURL>
+        <em:creator>Timmaeh</em:creator>
+        <em:contributor>leomoty</em:contributor>
+        <em:contributor>Timmaeh</em:contributor>
+        <em:targetApplication>
+            <Description>
+                <!-- Firefox -->
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:minVersion>23.0</em:minVersion>
+                <em:maxVersion>31.0</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+        <em:optionsURL>chrome://steamgifts_plus_v2/content/options.xul</em:optionsURL>
+        <em:aboutURL>chrome://steamgifts_plus_v2/content/about.xul</em:aboutURL>
+		<em:updateURL>https://github.com/Timmaeh/SGV2-/raw/dev/Firefox/update.rdf</em:updateURL>
+    </Description>
+</RDF>

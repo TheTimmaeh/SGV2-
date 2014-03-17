@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF:RDF xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+	<RDF:Description about="urn:mozilla:extension:sgpv2@timmaeh.de">
+		<em:updates>
+			<RDF:Seq>
+				<RDF:li resource="urn:mozilla:extension:sgpv2@timmaeh.de:1.2.0"/>
+				<RDF:li resource="urn:mozilla:extension:sgpv2@timmaeh.de:1.2.1"/>
+			</RDF:Seq>
+		</em:updates>
+	</RDF:Description>
+
+	<RDF:Description about="urn:mozilla:extension:foobar@developer.mozilla.org:1.2.0">
+		<em:version>1.2.0</em:version>
+		<em:targetApplication>
+            <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:minVersion>23.0</em:minVersion>
+                <em:maxVersion>31.0</em:maxVersion>
+                <em:updateLink>https://github.com/Timmaeh/SGV2-/raw/dev/Firefox/steamgifts_plus_v2_1.2.0.xpi</em:updateLink>
+                <em:updateHash>sha1:2F1A2CC6D8A86CB70DE3BE327EB2711537E6F39F</em:updateHash>
+            </RDF:Description>
+        </em:targetApplication>
+	</RDF:Description>
+
+	<RDF:Description about="urn:mozilla:extension:foobar@developer.mozilla.org:1.2.1">
+		<em:version>1.2.1</em:version>
+		<em:targetApplication>
+            <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:minVersion>23.0</em:minVersion>
+                <em:maxVersion>31.0</em:maxVersion>
+                <em:updateLink>https://github.com/Timmaeh/SGV2-/raw/dev/Firefox/steamgifts_plus_v2_1.2.1.xpi</em:updateLink>
+                <em:updateHash>sha1:9961A51C45DAD828EB42B66D5E1E12E5D2E8A8E1</em:updateHash>
+            </RDF:Description>
+        </em:targetApplication>
+	</RDF:Description>
+</RDF:RDF>
